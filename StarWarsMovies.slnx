@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StarWarsMovies.Api/StarWarsMovies.Api.csproj" />
+    <Project Path="src/StarWarsMovies.Application/StarWarsMovies.Application.csproj" />
+    <Project Path="src/StarWarsMovies.Domain/StarWarsMovies.Domain.csproj" />
+    <Project Path="src/StarWarsMovies.Infrastructure/StarWarsMovies.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StarWarsMovies.Tests/StarWarsMovies.Tests.csproj" />
+  </Folder>
+</Solution>
